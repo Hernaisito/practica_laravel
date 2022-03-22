@@ -1,0 +1,140 @@
+h1{
+    font-family:"Abyssinica SIL";
+    font-weight: bold;
+    color: white;
+    display: block;
+    position: relative;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 3%;
+}
+body{
+    background-color: #bfa1e7;
+}
+
+#cronometro {
+
+}
+
+h3 {
+    color: white;
+}
+
+h4 { color: rebeccapurple}
+
+th{
+    font-family:"Abyssinica SIL";
+    font-weight: bold;
+    color: rebeccapurple;
+
+}
+
+td{
+    padding-right: 30px;
+    align-items: center;
+    align-content: center;
+}
+
+header {
+    background-color: rebeccapurple;
+}
+
+.derecha {
+    margin-top: -110px;
+    float: right;
+    margin-right: 3%;
+}
+
+table, .tabla {
+    margin-left: 10%;
+}
+
+.tabla {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Abyssinica SIL";
+}
+
+header.inicio h1{
+    width: 600px;
+}
+
+.login {
+    float: left;
+    width: 30%;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+
+.register {
+float: right;
+    width: 30%;
+    margin-right: 15%;
+    margin-top: 50px;
+}
+
+fieldset {
+    border: 3px solid rebeccapurple;
+    border-radius: 30px;
+}
+
+.login input[type='submit'],
+.register input[type='submit']{
+    float: right;
+}
+
+.grid{
+    margin-top: 100px;
+    margin-left: 33%;
+    border-radius: 30px;
+    border: 3px solid rebeccapurple;
+    width: 400px;
+    height: 300px;
+}
+
+.grid label{
+    font-family:"Abyssinica SIL";
+    font-weight: bold;
+    color: rebeccapurple;
+    margin-left: 30px;
+}
+
+.grid .i1,
+.grid .d1 {
+    margin-top: 20px;
+}
+
+.grid .button {
+    float: right;
+    margin-right: 30px;
+}
+
+.grid .d1 {
+    margin-left: 30px;
+}
+
+.grid .d2 {
+    margin-left: 27px;
+}
+
+.grid .d3 {
+    margin-left: 54px;
+}
+
+.grid .d4 {
+    margin-left: 14px;
+}
+
+.grid .d5 {
+    margin-left: 30px;
+}
+
+.grid .d6 {
+    margin-left: 57px;
+}
+
+
+
+
+
